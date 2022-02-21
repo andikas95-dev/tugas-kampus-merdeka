@@ -1,0 +1,18 @@
+/* h1 {
+  color:blue;
+  background-color:yellow;
+  border: 1px solid black;
+  border-radius: 5px;
+  transform: rotate(20deg);
+} */
+
+.button-custom{
+  background-color: purple;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.button-custom:hover{
+  background-color: rgb(92, 2, 92);
+  color: #fff;
+}
